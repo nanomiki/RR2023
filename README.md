@@ -2,7 +2,7 @@
 ## Project Title:
 "Comparing Python and R for Credit Risk Analysis using Machine Learning techniques."
 ## Project aim
-This project aims to compare Python and R as used technologies for Credit Risk Analysis using Machine Learning techniques (logistic regression, KNN, SVM and decision trees). Our goal was to create a project in Python, reproduce it using R and compare strengths and weaknesses of both technologies. 
+This project aims to compare Python and R as technologies used for Credit Risk Analysis using Machine Learning techniques (logistic regression, KNN, SVM and decision trees). Our goal was to create a project in Python, reproduce it using R and compare strengths and weaknesses of both technologies. 
 
 Both files .r and .py include data inspection, ETL process, data analysis with ML techniques and comparison using Log Accuracy, Log Recall, Log Precision and Log ROC AUC metrics.
 ## Dataset
